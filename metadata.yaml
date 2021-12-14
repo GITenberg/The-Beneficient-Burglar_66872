@@ -1,0 +1,27 @@
+_repo: The-Beneficient-Burglar_66872
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Buck, Charles Neville
+    birthdate: 1879
+    deathdate: 1957
+    gutenberg_agent_id: '2520'
+    url: http://www.gutenberg.org/2009/agents/2520
+    wikipedia: http://www.gutenberg.org/ebooks/author/36873
+description: ''
+gutenberg_issued: '2021-12-03'
+identifiers:
+  gutenberg: '66872'
+language: en
+pgterms:marc905: 20210829002432buck
+pgterms:marc906: '1911'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: United States :The Ridgway Company,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Beneficient Burglar
+url: http://www.gutenberg.org/ebooks/66872
