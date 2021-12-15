@@ -1,5 +1,8 @@
 _repo: The-Beneficient-Burglar_66872
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66872-h/images/cover.jpg
 creator:
   author:
     agent_name: Buck, Charles Neville
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2520
     wikipedia: http://www.gutenberg.org/ebooks/author/36873
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66872#The-Beneficient-Burglar
 gutenberg_issued: '2021-12-03'
 identifiers:
   gutenberg: '66872'
